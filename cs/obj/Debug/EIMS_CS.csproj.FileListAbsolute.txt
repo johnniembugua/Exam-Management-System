@@ -1,0 +1,57 @@
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\bin\Debug\EIMS_CS.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\bin\Debug\EIMS_CS.exe
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\bin\Debug\EIMS_CS.pdb
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\obj\Debug\EIMS_CS.csprojResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\obj\Debug\EIMS_CS.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\obj\Debug\EIMS_CS.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\obj\Debug\EIMS_CS.exe
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\obj\Debug\EIMS_CS.pdb
+C:\Users\User\AppData\Local\Temporary Projects\EIMS_CS\obj\Debug\EIMS_CS.frmSplash.resources
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.exe.config
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.exe
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.pdb
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.exe
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.pdb
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmSplash.resources
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.Properties.Resources.resources
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmLogin.resources
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.dashboard.resources
+C:\Users\User\Desktop\EIMS\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmUniversity.resources
+F:\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.exe.config
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.exe
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.pdb
+F:\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.exe
+F:\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.pdb
+F:\EIMS_CS\EIMS_CS\bin\Debug\MySql.Data.dll
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.csprojResolveAssemblyReference.cache
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.dashboard.resources
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmLogin.resources
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmSplash.resources
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmUniversity.resources
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.Properties.Resources.resources
+F:\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.csproj.GenerateResource.Cache
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.exe.config
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.exe
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.pdb
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.exe
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\bin\Debug\EIMS_CS.pdb
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.csprojResolveAssemblyReference.cache
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.dashboard.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmLogin.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmSplash.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmUniversity.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.Properties.Resources.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.csproj.GenerateResource.Cache
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmCenter.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmCourse.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmDepartment.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmExamination.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmExaminer.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmFaculty.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmProgramme.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmStudent.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmUser.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmYearOfStudy.resources
+C:\Users\WhoPpix\Desktop\EIMS_CS\EIMS_CS\obj\Debug\EIMS_CS.frmAcademicYear.resources
